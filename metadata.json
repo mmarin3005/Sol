@@ -1,17 +1,12 @@
 {
-  "name": "MEMCOIN",
-  "symbol": "MEM",
-  "description": "This is an all seeing all knowing memory token.  Holding it grants powers of the all seeing eye, the more you acquire, the more you see.",
-  "total_supply": 100000000,
-  "image": "",
-  "attributes": [
-    {
-      "trait_type": "Decimals",
-      "value": 9
-    },
-    {
-      "trait_type": "Max Supply",
-      "value": "100,000,000"
-    }
-  ]
-}
+    "name": "MEMCOIN",
+    "symbol": "MEM",
+    "description": "Only Possible On Solana",
+    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
